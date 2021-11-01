@@ -367,3 +367,4 @@ wenxuecity.com##div.classified_right
 wenxuecity.com###rightside
 wenxuecity.com##aside.sidebar
 wenxuecity.com###article_intext
+cnbeta.com##.tac
