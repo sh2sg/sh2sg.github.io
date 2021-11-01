@@ -1,5 +1,5 @@
 ! Title: sh2sg custm filters
-! Version: 2021.10.09-1
+! Version: 2021.11.01-1
 */801.tianyaui.com/*
 *breakingburner.com/*
 6park.com##td[width="165"]
