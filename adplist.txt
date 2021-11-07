@@ -1,5 +1,5 @@
 ! Title: sh2sg custm filters
-! Version: 2021.11.01-1
+! Version: 2021.11.08-1
 */801.tianyaui.com/*
 *breakingburner.com/*
 6park.com##td[width="165"]
@@ -20,15 +20,6 @@
 @@||m1net.com.sg$document
 @@||speedtest.singtel.com.sg$document
 @@||vqbn.com$document
-baidu.com##div[class="p_share_ding "]
-baidu.com##div[class=tenYearsWrap]
-baidu.com##div[class^="game_spread_thread"]
-baidu.com##div[class^="right_section"]
-baidu.com##div[id=aside]
-baidu.com##div[id=frs-list-game]
-baidu.com##div[id=j_ten_years]
-baidu.com##div[id=search_button_wrapper]
-baidu.com##ul[class=tbui_aside_float_bar]
 tieba.baidu.com###guide_fc
 tieba.baidu.com##.guidance_fc
 tieba.baidu.com##.j-firework-sender
@@ -111,18 +102,7 @@ pconline.com.cn/2010/js2/dealerJS2010.js
 pconline.com.cn/images/lmt/area_lmt.js
 mydrivers.com##[id^="ad"]
 mydrivers.com##div[align="center"]
-mydrivers.com##div[class="jlxznr"]+div[class="jlxz"]
-mydrivers.com##div[class="left2"]
-mydrivers.com##div[class="left3"]>table
-mydrivers.com##div[class="right2"]
-mydrivers.com##div[class="zthdnr"]
-mydrivers.com##div[class="zttpnr"]
 mydrivers.com##div[id^="sidebar"]
-mydrivers.com##div[style="width:330px;float:left;padding-top:5px;padding-left:9px;"]
-mydrivers.com##div[style="width:630px;float:left;padding-top:5px;"]
-mydrivers.com##table[width="630"]
-mydrivers.com##td[width="342"]>table>tbody>tr
-pconline.com.cn##div[class^="ivyTL"]
 sgcn.com##*.swf
 sgcn.com##a[id="dzapp_wechat_sidenav_wx"]
 sgcn.com##div[class="a_mu"]
@@ -306,12 +286,7 @@ zaobao.com.sg###eNewsletter
 zaobao.com.sg###jumbotron
 zimuku.cn##.ad
 zimuku.cn##img[src^="//wx"]
-@@||sap.com
-@@||sap.corp
-@@||corp.sap
 @@||gov.sg
-@@||sapmobileservices.com
-@@||sap.sharepoint.com
 bbs.feng.com## DIV.footerLeft
 ||v.qq.com/txp/iframe/player.html$subdocument
 vm.gtimg.cn/tencentvideo/*
