@@ -1,13 +1,13 @@
 # Sample files
 
 ## Pictures
-- [jpeg: 316x316, 71kb](https://www.sh2sg.com/samples/picture_316x316.jpg)
+- [jpg: 316x316, 71kb](https://www.sh2sg.com/samples/picture_316x316.jpg)
 - [png: 316x316, 170kb](https://www.sh2sg.com/samples/picture_316x316.png)
-- [gif: 316x316, 59kb](https://www.sh2sg.com/samples/picture_316x316.gif)
+- [gif: 316x316, single frame, 59kb](https://www.sh2sg.com/samples/picture_316x316.gif)
 - [gif: 266x499, animated, 2.7mb](https://www.sh2sg.com/samples/picture_animated_266x499.gif)
-- [png: 1x1, transparent, 68bytes](https://www.sh2sg.com/samples/1pixel.png)
-- [jpeg, 40kb](https://www.sh2sg.com/samples/coffee.jpg)
-- [png, 57kb](https://www.sh2sg.com/samples/movie_ticket.png)
+- [png: 1x1, transparent, 68b](https://www.sh2sg.com/samples/1pixel.png)
+- [jpg, 800x352, 40kb](https://www.sh2sg.com/samples/coffee.jpg)
+- [png, 463x242, 57kb](https://www.sh2sg.com/samples/movie_ticket.png)
 
 ## Videos
 - [mp4: 1280x720, h.264/24fps, aac/48khz, 18s, 8.2mb](https://www.sh2sg.com/samples/video_h264_1280x720_24fps_aac_48khz_18s.mp4)
