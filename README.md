@@ -13,6 +13,7 @@
 - [mp4: 1280x720, h.264/24fps, aac/48khz, 18s, 8.2mb](https://www.sh2sg.com/samples/video_h264_1280x720_24fps_aac_48khz_18s.mp4)
 - [mp4: 1280x720, h.264/24fps, aac/48khz, 28s, 13.1mb](https://www.sh2sg.com/samples/video_h264_1280x720_24fps_aac_48khz_28s.mp4)
 - [mp4: 1280x720, h.265/24fps, aac/48khz, 28s, 7.1mb](https://www.sh2sg.com/samples/video_h265_1280x720_24fps_aac_48khz_28s.mp4)
+- [mp4: 1280x720, h.264/24fps, aac/48khz, 1m49s, 5.5mb](https://www.sh2sg.com/samples/sinch.mp4)
 
 ## Audios
 - [m4a: aac/48khz, 132s, 1.6mb](https://www.sh2sg.com/samples/audio_aac_48khz_132s.m4a)
