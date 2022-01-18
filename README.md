@@ -20,6 +20,7 @@
 - [mp3: mp3/48khz, 132s, 2.1mb](https://www.sh2sg.com/samples/audio_mp3_48khz_132s.mp3)
 - [ogg: ogg/48khz, 132s, 4mb](https://www.sh2sg.com/samples/audio_ogg_48khz_132s.ogg)
 - [mp3: mp3/48khz, 81s, 1.3mb](https://www.sh2sg.com/samples/audio_mp3_48khz_81s.mp3)
+- [mp3: mp3, 27s, 0.7mb](https://www.sh2sg.com/samples/audio_27s.mp3)
 
 ## Others
 - [pdf, 3kb](https://www.sh2sg.com/samples/document_adobe.pdf)
