@@ -1,5 +1,5 @@
 ! Title: sh2sg custm filters
-! Version: 2022.04.08-1
+! Version: 2022.04.08-2
 */801.tianyaui.com/*
 *breakingburner.com/*
 6park.com##td[width="165"]
@@ -343,4 +343,4 @@ wenxuecity.com###rightside
 wenxuecity.com##aside.sidebar
 wenxuecity.com###article_intext
 cnbeta.com##.tac
-duomai.com
+dl.duomai.com
