@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2022.04.10-1
+! Version: 2022.04.10-2
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -8,7 +8,7 @@
 @@||vqbn.com$document
 @@||dadispapi.gmarket.co.kr/target/gmkt/getAd?$domain=escrow.gmarket.co.kr
 
-dl.duomai.com
+duomai.com
 dafasportbook.com
 jiathis.com
 juicyads.com
@@ -72,10 +72,6 @@ singaporepools.com.sg##section[id="gamblingAdvice"]
 sohu.com/sohuflash_1.js
 sbfsg.net,sammyboyforum.com##div[id^="cometchat"]
 
-mydrivers.com##[id^="ad"]
-mydrivers.com##div[align="center"]
-mydrivers.com##div[id^="sidebar"]
-
 global.tianyaui.com/global/wizard/js/wizard.js
 static.tianyaui.com/js/2009/js/tianya_footer1.js
 tianya.cn##[class$=ad]+[class*=rig],[id$=_AD]+[class*=list_no]
@@ -129,6 +125,9 @@ images.mydrivers.com/*.jpg
 images.mydrivers.com/*.swf
 pad.mydrivers.com##.clearfix.shidian
 pad.mydrivers.com##.contentright
+mydrivers.com##[id^="ad"]
+mydrivers.com##div[align="center"]
+mydrivers.com##div[id^="sidebar"]
 
 sinajs.cn/*/*.js
 p4p.sina.com.cn/
@@ -156,6 +155,7 @@ sina.com.cn##img#ln_ball03.ln_blk02
 sina.com.cn##img#ln_ball04.ln_blk02
 sina.allyes.com/main/*
 d?.sina.com.cn
+d00.sina.com.cn
 
 sgcn.com##A[class$="_Search_Spider"]
 sgcn.com##DIV[class="sftop"]
