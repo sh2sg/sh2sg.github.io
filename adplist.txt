@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2022.04.10-2
+! Version: 2022.04.10-3
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -129,12 +129,11 @@ mydrivers.com##[id^="ad"]
 mydrivers.com##div[align="center"]
 mydrivers.com##div[id^="sidebar"]
 
-sinajs.cn/*/*.js
+sinajs.cn
 p4p.sina.com.cn/
 pfp.sina.com.cn/iframe/gn/*
 pfp.sina.com.cn/iframe/no/20*/*
 rm.sina.com.cn/bj-icast/mv/cr/20*/*
-rm.sina.com.cn/shanghai/demo/mdl_1/*
 sina.com.cn##div#PublicRelation5.adNone
 sina.com.cn##div#PublicRelation6.Ad_01.adNone
 sina.com.cn##div#PublicRelation7.adNone
