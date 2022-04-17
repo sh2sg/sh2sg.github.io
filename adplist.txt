@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2022.04.10-3
+! Version: 2022.04.17-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -153,8 +153,7 @@ sina.com.cn##img#ln_ball02.ln_blk02
 sina.com.cn##img#ln_ball03.ln_blk02
 sina.com.cn##img#ln_ball04.ln_blk02
 sina.allyes.com/main/*
-d?.sina.com.cn
-d00.sina.com.cn
+||d*.sina.com.cn
 
 sgcn.com##A[class$="_Search_Spider"]
 sgcn.com##DIV[class="sftop"]
@@ -266,7 +265,7 @@ wenxuecity.com##ul[id="classify-l"]
 wenxuecity.com###classify-r
 wenxuecity.com##.midnav
 wenxuecity.com##a[href*="haiwai.com/"]
-@@||wenxuecity.com/js/ads.js
+||wenxuecity.com/js/ads.js
 wenxuecity.com###hot_discuss
 wenxuecity.com##.publist_list.index_publish
 ||www.wenxuecity.com/service/*
