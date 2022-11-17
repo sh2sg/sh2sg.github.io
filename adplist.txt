@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2022.07.24-1
+! Version: 2022.11.18-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -312,5 +312,27 @@ cnbeta.com/*/needhelp.js
 cnbeta.com##div[class="item cooperation"]
 cnbeta.com##+js(abort-current-inline-script.js, randomString)
 cnbeta.com##.tac
+
+cnbeta.com.tw##div[class^="cnbeta-side-sponsor"]
+cnbeta.com.tw##div[class="cbv"]
+cnbeta.com.tw##div[class="tal"]
+cnbeta.com.tw##div[id="googleAd_afc"]
+cnbeta.com.tw##div[id^="BAIDU_"]
+cnbeta.com.tw##.cnbeta-home-blue-wrapper
+cnbeta.com.tw##.cnbeta-headlines
+cnbeta.com.tw##.tks
+cnbeta.com.tw##[id="AdForward"]
+cnbeta.com.tw##[id="EditorRecommendBox"]
+cnbeta.com.tw##[id="fm_r"]
+cnbeta.com.tw##[id="userInfo"]
+cnbeta.com.tw##[id="votes"]
+cnbeta.com.tw##div.newslist>dl>dd.detail>em
+cnbeta.com.tw##div[class="digbox"]
+cnbeta.com.tw##div[class="article-share-code"]
+cnbeta.com.tw##div[id="c_ad"]
+cnbeta.com.tw##div[id^="mask"],div[class^="mask"],div[class="mt5"]
+cnbeta.com.tw##div[class="item cooperation"]
+cnbeta.com.tw##+js(abort-current-inline-script.js, randomString)
+cnbeta.com.tw##.tac
 
 zimuku.org##[id="rbad"]
