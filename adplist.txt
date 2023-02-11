@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2022.11.18-1
+! Version: 2023.02.11-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -118,6 +118,7 @@ huasing.net##div[class="sgnt"],div[id^="randompost"], div[id^="randomad-"], div[
 huasing.net/sForum/skin/user/images/avators/CVS
 bbs.huasing.net##.divavator
 bbs.huasing.org##.divavator
+goo.gl/fHVjn
 
 11.mydrivers.com
 images.mydrivers.com/*.gif
@@ -336,3 +337,6 @@ cnbeta.com.tw##+js(abort-current-inline-script.js, randomString)
 cnbeta.com.tw##.tac
 
 zimuku.org##[id="rbad"]
+
+web.pinyin.sogou.com/web_ime/
+
