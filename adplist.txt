@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2023.02.11-1
+! Version: 2023.02.12-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -156,6 +156,9 @@ sina.com.cn##img#ln_ball04.ln_blk02
 sina.allyes.com/main/*
 ||d*.sina.com.cn
 v.t.sina.com.cn
+edge.caitong.sina.com.cn
+i.sso.sina.com.cn
+top.news.sina.com.cn/ws/GetTopDataList.php
 
 sgcn.com##A[class$="_Search_Spider"]
 sgcn.com##DIV[class="sftop"]
