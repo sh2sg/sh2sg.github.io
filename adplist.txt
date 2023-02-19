@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2023.02.12-1
+! Version: 2023.02.19-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -7,6 +7,7 @@
 @@||m1net.com.sg$document
 @@||vqbn.com$document
 @@||dadispapi.gmarket.co.kr/target/gmkt/getAd?$domain=escrow.gmarket.co.kr
+@@||minne.com$important,document
 
 duomai.com
 dafasportbook.com
