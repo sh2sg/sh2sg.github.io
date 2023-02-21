@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2023.02.19-1
+! Version: 2023.02.21-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -113,9 +113,9 @@ youdao.com###footer
 youdao.com###c_footer
 
 ||v15.huasing.org/skin/*
-huasing.org##div[class="sgnt"],div[id^="randompost"], div[id^="randomad-"], div[id="weibo-ads"], div[id^="footer"], div[id="post-right"], div[id="weibo-float"], iframe[id="sina_widget_1954349875"], div[id="ads"], div[id="scrollDiv"], div[id="header"]
+huasing.org##div[class="sgnt"],div[id^="randompost"], div[id^="randomad-"], div[id="weibo-ads"], div[id^="footer"], div[id="post-right"], div[id="weibo-float"], iframe[id="sina_widget_1954349875"], div[id="ads"], div[id="scrollDiv"], div[id="header"], div[id="adtop"]
 huasing.org/sForum/skin/user/images/avators/CVS
-huasing.net##div[class="sgnt"],div[id^="randompost"], div[id^="randomad-"], div[id="weibo-ads"], div[id^="footer"], div[id="post-right"], div[id="weibo-float"], iframe[id="sina_widget_1954349875"], div[id="ads"], div[id="scrollDiv"], div[id="header"]
+huasing.net##div[class="sgnt"],div[id^="randompost"], div[id^="randomad-"], div[id="weibo-ads"], div[id^="footer"], div[id="post-right"], div[id="weibo-float"], iframe[id="sina_widget_1954349875"], div[id="ads"], div[id="scrollDiv"], div[id="header"], div[id="adtop"]
 huasing.net/sForum/skin/user/images/avators/CVS
 bbs.huasing.net##.divavator
 bbs.huasing.org##.divavator
