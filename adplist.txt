@@ -344,3 +344,4 @@ zimuku.org##[id="rbad"]
 
 web.pinyin.sogou.com/web_ime/
 
+8world.com##footer[role="contentinfo"]
