@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2023.03.26-1
+! Version: 2023.09.20-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -293,6 +293,7 @@ wenxuecity.com###article_intext
 wenxuecity.com##A[href*="TraveltoChinaCorp"]
 wenxuecity.com##section[id="newsInfopost"]
 wenxuecity.com##DIV[id="pushdown"]
+wenxuecity.com##div[class="banner"]
 
 cnbeta.com##div[class^="cnbeta-side-sponsor"]
 cnbeta.com##div[class="cbv"]
