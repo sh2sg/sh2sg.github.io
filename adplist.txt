@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2023.09.20-1
+! Version: 2023.11.03-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -295,51 +295,7 @@ wenxuecity.com##section[id="newsInfopost"]
 wenxuecity.com##DIV[id="pushdown"]
 wenxuecity.com##div[class="banner"]
 
-cnbeta.com##div[class^="cnbeta-side-sponsor"]
-cnbeta.com##div[class="cbv"]
-cnbeta.com##div[class="tal"]
-cnbeta.com##div[id="googleAd_afc"]
-cnbeta.com##div[id^="BAIDU_"]
-cnbeta.com##.cnbeta-home-blue-wrapper
-cnbeta.com##.cnbeta-headlines
-cnbeta.com##.tks
-cnbeta.com##[id="AdForward"]
-cnbeta.com##[id="EditorRecommendBox"]
-cnbeta.com##[id="fm_r"]
-cnbeta.com##[id="userInfo"]
-cnbeta.com##[id="votes"]
-cnbeta.com##div.newslist>dl>dd.detail>em
-cnbeta.com##div[class="digbox"]
-cnbeta.com##div[class="article-share-code"]
-cnbeta.com##div[id="c_ad"]
-cnbeta.com##div[id^="mask"],div[class^="mask"],div[class="mt5"]
-cnbeta.com/*/needhelp.js
-||static.cnbetacdn.com/article/*/*.gif
-cnbeta.com##div[class="item cooperation"]
-cnbeta.com##+js(abort-current-inline-script.js, randomString)
-cnbeta.com##.tac
-
-cnbeta.com.tw##div[class^="cnbeta-side-sponsor"]
-cnbeta.com.tw##div[class="cbv"]
-cnbeta.com.tw##div[class="tal"]
-cnbeta.com.tw##div[id="googleAd_afc"]
-cnbeta.com.tw##div[id^="BAIDU_"]
-cnbeta.com.tw##.cnbeta-home-blue-wrapper
-cnbeta.com.tw##.cnbeta-headlines
-cnbeta.com.tw##.tks
-cnbeta.com.tw##[id="AdForward"]
-cnbeta.com.tw##[id="EditorRecommendBox"]
-cnbeta.com.tw##[id="fm_r"]
-cnbeta.com.tw##[id="userInfo"]
-cnbeta.com.tw##[id="votes"]
-cnbeta.com.tw##div.newslist>dl>dd.detail>em
-cnbeta.com.tw##div[class="digbox"]
-cnbeta.com.tw##div[class="article-share-code"]
-cnbeta.com.tw##div[id="c_ad"]
-cnbeta.com.tw##div[id^="mask"],div[class^="mask"],div[class="mt5"]
-cnbeta.com.tw##div[class="item cooperation"]
-cnbeta.com.tw##+js(abort-current-inline-script.js, randomString)
-cnbeta.com.tw##.tac
+cnbeta.com.tw##div[class^="cb-sponsor"]
 
 zimuku.org##[id="rbad"]
 zimuku.org##footer
