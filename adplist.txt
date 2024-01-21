@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2023.11.03-1
+! Version: 2024.01.21-1
 
 @@https://ads.m1.com.sg$document
 @@||m1.com.sg/$document
@@ -302,4 +302,4 @@ zimuku.org##footer
 
 web.pinyin.sogou.com/web_ime/
 
-8world.com##footer[role="contentinfo"]
+8world.com##footer[role="contentinfo"],div[class~="top-ad"],div[class~="ad-block"],div[class~="programtic-ads"]
