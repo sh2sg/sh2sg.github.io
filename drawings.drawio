@@ -3914,6 +3914,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0CTyhZMz94ibh7TkUgZY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="17" width="603" height="820" as="geometry" />
+        </mxCell>
         <mxCell id="zucr78sumjVetp5qHE1L-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="40" height="40" as="geometry" />
         </mxCell>
@@ -4031,8 +4034,8 @@
         <mxCell id="RC9obhuEst77DY1hJiTF-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchDemographics&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
           <mxGeometry x="84" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RC9obhuEst77DY1hJiTF-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchEmploymentStatus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
-          <mxGeometry x="96" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="RC9obhuEst77DY1hJiTF-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchIncome&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
+          <mxGeometry x="66" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchEmploymentStatus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
           <mxGeometry x="95" y="178" width="60" height="30" as="geometry" />
@@ -4098,7 +4101,7 @@
           <mxGeometry x="640" y="600" width="36.85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zucr78sumjVetp5qHE1L-30" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/management/provider_cloud_portal_service.svg;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="641" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zucr78sumjVetp5qHE1L-31" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/management/provider_cloud_portal_service.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="390" width="40" height="40" as="geometry" />
@@ -4285,7 +4288,7 @@
           <mxGeometry x="478" y="198" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zucr78sumjVetp5qHE1L-81" value="ICA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="325" width="60" height="30" as="geometry" />
+          <mxGeometry x="671" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zucr78sumjVetp5qHE1L-82" value="IRAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="395" width="60" height="30" as="geometry" />
@@ -4321,10 +4324,10 @@
           <mxGeometry x="62" y="610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="579" y="-360" width="441" height="490" as="geometry" />
+          <mxGeometry x="635" y="-336" width="441" height="490" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-19" value="&lt;div&gt;scheme: eSMF&lt;/div&gt;&lt;div&gt;version: 2025-08-24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;steps:&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: demographics&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: FetchDemographics &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # ICA&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; retry: { max_attempts: 4, backoff_seconds: 10, jitter: true }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; notify: true&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: income&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: FetchIncome &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # IRAS&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; retry: { max_attempts: 4, backoff_seconds: 10, jitter: true }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: employment&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: FetchEmploymentStatus &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # MOM&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; retry: { max_attempts: 4, backoff_seconds: 10, jitter: true }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: evaluate&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: EvaluateEligibility&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; params:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ruleset: esmf-v3.2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; on_result:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; approved: [finalize]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; rejected: [finalize]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; needs_review: [manual_review]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: manual_review&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: SendToSoEAndWaitCallback &amp;nbsp; &amp;nbsp; # Step Functions task token pattern&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; timeout_hours: 240 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # 10 days&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: finalize&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: PersistDecisionAndNotify &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; notify: true&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="594" y="-210" width="460" height="200" as="geometry" />
+          <mxGeometry x="650" y="-186" width="460" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-20" value="Send Status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="770" width="90" height="30" as="geometry" />
@@ -4434,7 +4437,7 @@
           <mxGeometry x="630" y="686.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-65" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;14&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="634" y="688.5" width="17" height="20" as="geometry" />
+          <mxGeometry x="634" y="687.5" width="17" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="725" width="25" height="25" as="geometry" />
@@ -4471,6 +4474,9 @@
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-77" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;21&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="17" y="522" width="17" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0CTyhZMz94ibh7TkUgZY-2" value="&lt;b&gt;SoR&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
