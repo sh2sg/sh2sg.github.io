@@ -3910,7 +3910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rZCX7O0WJHwYtbEXkMEU" name="Page-10">
-    <mxGraphModel dx="1919" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1919" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3932,8 +3932,8 @@
         <mxCell id="zucr78sumjVetp5qHE1L-6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zucr78sumjVetp5qHE1L-7" value="Scheme Workflow&lt;div&gt;(Step Function)&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_step_functions_workflow;strokeColor=#CD2264;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#CD2264;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="180" height="420" as="geometry" />
+        <mxCell id="zucr78sumjVetp5qHE1L-7" value="Scheme Workflow&lt;div&gt;(Step Function - Standard)&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_step_functions_workflow;strokeColor=#CD2264;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#CD2264;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="200" height="420" as="geometry" />
         </mxCell>
         <mxCell id="zucr78sumjVetp5qHE1L-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
           <mxGeometry x="20" y="60" width="40" height="40" as="geometry" />
@@ -4028,17 +4028,17 @@
             <mxPoint x="70" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RC9obhuEst77DY1hJiTF-1" value="Task 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
-          <mxGeometry x="50" y="50" width="60" height="30" as="geometry" />
+        <mxCell id="RC9obhuEst77DY1hJiTF-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchDemographics&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
+          <mxGeometry x="84" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RC9obhuEst77DY1hJiTF-2" value="Task 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
-          <mxGeometry x="50" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="RC9obhuEst77DY1hJiTF-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchEmploymentStatus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
+          <mxGeometry x="96" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RC9obhuEst77DY1hJiTF-3" value="Task 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
-          <mxGeometry x="50" y="178" width="60" height="30" as="geometry" />
+        <mxCell id="RC9obhuEst77DY1hJiTF-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;FetchEmploymentStatus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
+          <mxGeometry x="95" y="178" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RC9obhuEst77DY1hJiTF-4" value="Decision Engine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
-          <mxGeometry x="90" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="RC9obhuEst77DY1hJiTF-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;EvaluateEligibility&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
+          <mxGeometry x="116" y="248" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-5" value="Approved" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zucr78sumjVetp5qHE1L-7">
           <mxGeometry x="-20" y="290" width="60" height="30" as="geometry" />
@@ -4293,11 +4293,37 @@
         <mxCell id="RC9obhuEst77DY1hJiTF-14" value="SoE Notifier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RC9obhuEst77DY1hJiTF-15" value="Upset&amp;nbsp;rich rows to RDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="610" width="70" height="30" as="geometry" />
+        <mxCell id="RC9obhuEst77DY1hJiTF-15" value="Upset&amp;nbsp;rich rows / status to RDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RC9obhuEst77DY1hJiTF-16" value="Update status and store retrieved data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RC9obhuEst77DY1hJiTF-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="579" y="-390" width="441" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="RC9obhuEst77DY1hJiTF-19" value="&lt;div&gt;scheme: eSMF&lt;/div&gt;&lt;div&gt;version: 2025-08-24&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;steps:&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: demographics&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: FetchDemographics &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # ICA&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; retry: { max_attempts: 4, backoff_seconds: 10, jitter: true }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; notify: true&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: income&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: FetchIncome &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # IRAS&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; retry: { max_attempts: 4, backoff_seconds: 10, jitter: true }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: employment&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: FetchEmploymentStatus &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # MOM&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; retry: { max_attempts: 4, backoff_seconds: 10, jitter: true }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: evaluate&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: EvaluateEligibility&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; params:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ruleset: esmf-v3.2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; on_result:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; approved: [finalize]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; rejected: [finalize]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; needs_review: [manual_review]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: manual_review&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: SendToSoEAndWaitCallback &amp;nbsp; &amp;nbsp; # Step Functions task token pattern&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; timeout_hours: 240 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # 10 days&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - id: finalize&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; task: PersistDecisionAndNotify &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; notify: true&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;notify:&lt;/div&gt;&lt;div&gt;&amp;nbsp; soe: all_steps&lt;/div&gt;&lt;div&gt;&amp;nbsp; bob: final_only&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594" y="-210" width="460" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RC9obhuEst77DY1hJiTF-20" value="Send status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RC9obhuEst77DY1hJiTF-21" value="Projector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RC9obhuEst77DY1hJiTF-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RC9obhuEst77DY1hJiTF-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="80" as="sourcePoint" />
+            <mxPoint x="430" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="80" />
+              <mxPoint x="380" y="30" />
+              <mxPoint x="430" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC9obhuEst77DY1hJiTF-23" value="Sample Scheme Workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
