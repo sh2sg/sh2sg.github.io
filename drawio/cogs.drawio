@@ -2093,7 +2093,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BoB API" id="7sGnrwfdsoHeK3Z6bja6">
-    <mxGraphModel dx="1901" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="mAbImqGf4IZiupO2UsBs-0" />
         <mxCell id="mAbImqGf4IZiupO2UsBs-1" parent="mAbImqGf4IZiupO2UsBs-0" />
@@ -2152,12 +2152,6 @@
         </mxCell>
         <mxCell id="mAbImqGf4IZiupO2UsBs-101" parent="mAbImqGf4IZiupO2UsBs-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=none;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="25" width="25" x="177.5" y="172.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mAbImqGf4IZiupO2UsBs-151" parent="mAbImqGf4IZiupO2UsBs-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="100" width="76.75" x="947.04" y="812" as="geometry" />
-        </mxCell>
-        <mxCell id="mAbImqGf4IZiupO2UsBs-152" parent="mAbImqGf4IZiupO2UsBs-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;TBD, via API or File Transfer,&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="61.25" x="952.54" y="827" as="geometry" />
         </mxCell>
         <mxCell id="mAbImqGf4IZiupO2UsBs-158" parent="mAbImqGf4IZiupO2UsBs-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="81.32999999999998" y="117.5" as="geometry" />
