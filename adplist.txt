@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2025.02.16-1
+! Version: 2026.02.01-1
 
 @@||gov.sg$document
 @@||vqbn.com$document
@@ -262,6 +262,6 @@ zimuku.org##footer
 
 web.pinyin.sogou.com/web_ime/
 
-8world.com##div[class~="top-ad"],div[class~="ad-block"],div[class~="programtic-ads"]
+8world.com##div[class~="top-ad"],div[class~="ad-block"],div[class~="programtic-ads"],[class~="fast-button-wrapper"]
 
 1lou.pro##div[id="advert"]
