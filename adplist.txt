@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2026.02.01-1
+! Version: 2026.02.08-1
 
 @@||gov.sg$document
 @@||vqbn.com$document
@@ -69,17 +69,6 @@ singaporepools.com.sg##section[id="gamblingAdvice"]
 sohu.com/sohuflash_1.js
 sbfsg.net,sammyboyforum.com##div[id^="cometchat"]
 
-am.6park.com
-6park.com/news/*.js
-6park.com/parks/*.js
-6park.com##td[width="165"]
-toutiaoabc.com##a[href^="http://list1.6park.com/parks/qqq.php?perm=news"]
-toutiaoabc.com##td[width="165"]
-img.toutiaoabc.com/img/cyber360.gif
-toutiaoabc.com/news/*.js
-toutiaoabc.com/parks/*.js
-am.toutiaoabc.com/*
-
 ||v15.huasing.org/skin/*
 huasing.org##div[class="sgnt"],div[id^="randompost"], div[id^="randomad-"], div[id="weibo-ads"], div[id^="footer"], div[id="post-right"], div[id="weibo-float"], iframe[id="sina_widget_1954349875"], div[id="ads"], div[id="scrollDiv"], div[id="header"], div[id="adtop"],div[id="adbanner"]
 huasing.org/sForum/skin/user/images/avators/CVS
@@ -118,36 +107,6 @@ v.t.sina.com.cn
 edge.caitong.sina.com.cn
 i.sso.sina.com.cn
 top.news.sina.com.cn/ws/GetTopDataList.php
-
-sgcn.com##A[class$="_Search_Spider"]
-sgcn.com##DIV[class="sftop"]
-sgcn.com##IMG[src="source/plugin/study_sharetoweixin/images/help.png"]
-sgcn.com##IMG[src="source/plugin/study_sharetoweixin/images/title_wechat.png"]
-sgcn.com###huyou_nologin
-sgcn.com##*.swf
-sgcn.com##a[id="dzapp_wechat_sidenav_wx"]
-sgcn.com##div[class="a_mu"]
-sgcn.com##div[class="a_p"]
-sgcn.com##div[class="a_pr"]
-sgcn.com##div[class="fastlg_fm y"]
-sgcn.com##div[class="leftbox"]
-sgcn.com##div[class="wp oyscroll cl"]
-sgcn.com##div[class=lk]
-sgcn.com##div[class=oyad]
-sgcn.com##div[class^=oyqq]
-sgcn.com##div[class^=topa]
-sgcn.com##div[id="ckepop"]
-sgcn.com##div[id="page_footer"]
-sgcn.com##div[id=buttons]
-sgcn.com##div[id=ft]
-sgcn.com##div[id=leftsidebar]
-sgcn.com##div[id=nv]
-sgcn.com##div[id=online]
-sgcn.com##div[id=oyeeh_nav]
-sgcn.com##div[id=sd]
-sgcn.com##div[id=topcontrol]
-sgcn.com##td[class="plc plm"]
-sgcn.com##ul[class=newnv]
 
 zaobao.com*/mkt/*
 zaobao.com.sg###CouchPotato
@@ -259,8 +218,6 @@ cnbeta.com.tw##div[class^="cb-sponsor"],div[class="google-auto-placed"]
 
 zimuku.org##[id="rbad"]
 zimuku.org##footer
-
-web.pinyin.sogou.com/web_ime/
 
 8world.com##div[class~="top-ad"],div[class~="ad-block"],div[class~="programtic-ads"],[class~="fast-button-wrapper"]
 
