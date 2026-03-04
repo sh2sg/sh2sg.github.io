@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.3" pages="21">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0" pages="21">
   <diagram id="ZKs1Kh8dbeciswKwEHHr" name="COGS">
     <mxGraphModel dx="1657" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1620,10 +1620,10 @@
             <mxPoint x="450" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZgfTGAgarcaDlM8atJc5-52" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="ZgfTGAgarcaDlM8atJc5-52" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4-FyYPg7NKoWXnV0fACn-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="734" />
+              <mxPoint x="840" y="740" />
             </Array>
             <mxPoint x="840" y="650" as="sourcePoint" />
             <mxPoint x="600" y="733.6615879553269" as="targetPoint" />
@@ -2036,7 +2036,7 @@
         <mxCell id="BBep8FCxTblZMy4CfBHm-21" parent="ZgfTGAgarcaDlM8atJc5-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" value="&lt;span style=&quot;background-color: light-dark(rgb(230, 246, 247), rgb(237, 237, 237));&quot;&gt;ALB&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="566" y="13.75" as="geometry" />
         </mxCell>
-        <mxCell id="BBep8FCxTblZMy4CfBHm-22" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" style="endArrow=classic;html=1;rounded=0;" target="BBep8FCxTblZMy4CfBHm-21" value="">
+        <mxCell id="BBep8FCxTblZMy4CfBHm-22" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" source="4-FyYPg7NKoWXnV0fACn-0" style="endArrow=classic;html=1;rounded=0;" target="BBep8FCxTblZMy4CfBHm-21" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="840" y="34" as="sourcePoint" />
             <mxPoint x="720" y="10" as="targetPoint" />
@@ -2050,6 +2050,18 @@
         </mxCell>
         <mxCell id="BBep8FCxTblZMy4CfBHm-24" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="CST Claims from SoE" vertex="1">
           <mxGeometry height="30" width="130" x="660" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4-FyYPg7NKoWXnV0fACn-1" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" style="endArrow=classic;html=1;rounded=0;" target="4-FyYPg7NKoWXnV0fACn-0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="34" as="sourcePoint" />
+            <mxPoint x="606" y="34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-FyYPg7NKoWXnV0fACn-0" parent="ZgfTGAgarcaDlM8atJc5-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" value="CAG" vertex="1">
+          <mxGeometry height="40" width="40" x="606" y="16.25" as="geometry" />
+        </mxCell>
+        <mxCell id="4-FyYPg7NKoWXnV0fACn-2" parent="ZgfTGAgarcaDlM8atJc5-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" value="CAG" vertex="1">
+          <mxGeometry height="40" width="40" x="600" y="720.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
