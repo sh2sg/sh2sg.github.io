@@ -1629,10 +1629,10 @@
             <mxPoint x="600" y="733.6615879553269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZgfTGAgarcaDlM8atJc5-53" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" source="ZgfTGAgarcaDlM8atJc5-135" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="ZgfTGAgarcaDlM8atJc5-9" value="">
+        <mxCell id="ZgfTGAgarcaDlM8atJc5-53" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" source="ZgfTGAgarcaDlM8atJc5-135" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="ZgfTGAgarcaDlM8atJc5-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="720" />
+              <mxPoint x="410" y="740" />
             </Array>
             <mxPoint x="565.8000000000002" y="725.8000000000002" as="sourcePoint" />
             <mxPoint x="410" y="740" as="targetPoint" />
@@ -1752,16 +1752,16 @@
           <mxGeometry height="30" width="60" x="848" y="572.5" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-81" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Send for manual review&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="90" x="670" y="580" as="geometry" />
+          <mxGeometry height="30" width="90" x="650" y="580" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-82" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Manual review result" vertex="1">
-          <mxGeometry height="30" width="80" x="680" y="705" as="geometry" />
+          <mxGeometry height="30" width="80" x="670" y="705" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-83" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Callback receiver" vertex="1">
-          <mxGeometry height="30" width="60" x="466" y="735" as="geometry" />
+          <mxGeometry height="30" width="60" x="490" y="762" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-84" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Resume" vertex="1">
-          <mxGeometry height="30" width="60" x="406" y="697.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="430" y="710" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-85" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="BoB Notifier" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="666" as="geometry" />
@@ -1851,7 +1851,7 @@
           <mxGeometry height="37.5" width="40" x="461" y="603.25" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-135" parent="ZgfTGAgarcaDlM8atJc5-1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#5294CF;gradientColor=none;" value="" vertex="1">
-          <mxGeometry height="37.5" width="40" x="520" y="719.5" as="geometry" />
+          <mxGeometry height="37.5" width="40" x="520" y="721.5" as="geometry" />
         </mxCell>
         <mxCell id="ZgfTGAgarcaDlM8atJc5-136" parent="ZgfTGAgarcaDlM8atJc5-1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_step_functions_workflow;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=0;" value="ASF Payment Service Flow" vertex="1">
           <mxGeometry height="100" width="250" x="80" y="870" as="geometry" />
@@ -2015,21 +2015,6 @@
         <mxCell id="BBep8FCxTblZMy4CfBHm-15" parent="ZgfTGAgarcaDlM8atJc5-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" value="&lt;span style=&quot;background-color: light-dark(rgb(230, 246, 247), rgb(237, 237, 237));&quot;&gt;ALB&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="560" y="720.5" as="geometry" />
         </mxCell>
-        <mxCell id="BBep8FCxTblZMy4CfBHm-16" parent="ZgfTGAgarcaDlM8atJc5-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/dynamics365/Dynamics365.svg;" value="" vertex="1">
-          <mxGeometry height="80" width="58.96" x="846" y="13.75" as="geometry" />
-        </mxCell>
-        <mxCell id="BBep8FCxTblZMy4CfBHm-17" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="SoE" vertex="1">
-          <mxGeometry height="30" width="60" x="848" y="-13.75" as="geometry" />
-        </mxCell>
-        <mxCell id="BBep8FCxTblZMy4CfBHm-18" parent="ZgfTGAgarcaDlM8atJc5-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" value="Internal&amp;nbsp;&lt;div&gt;Users&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="36.57" x="964" y="13.75" as="geometry" />
-        </mxCell>
-        <mxCell id="BBep8FCxTblZMy4CfBHm-19" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" style="endArrow=classic;html=1;rounded=0;exitX=-0.055;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="965.9886499999998" y="34.75" as="sourcePoint" />
-            <mxPoint x="910" y="34.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BBep8FCxTblZMy4CfBHm-20" parent="ZgfTGAgarcaDlM8atJc5-1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#5294CF;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="37.5" width="40" x="526" y="12.75" as="geometry" />
         </mxCell>
@@ -2042,18 +2027,23 @@
             <mxPoint x="720" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBep8FCxTblZMy4CfBHm-23" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" source="BBep8FCxTblZMy4CfBHm-20" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.831;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="BBep8FCxTblZMy4CfBHm-8" value="">
+        <mxCell id="BBep8FCxTblZMy4CfBHm-23" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" source="BBep8FCxTblZMy4CfBHm-20" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="BBep8FCxTblZMy4CfBHm-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="10" as="sourcePoint" />
             <mxPoint x="410" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BBep8FCxTblZMy4CfBHm-24" parent="ZgfTGAgarcaDlM8atJc5-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="CST Claims from SoE" vertex="1">
-          <mxGeometry height="30" width="130" x="660" y="2.5" as="geometry" />
+          <mxGeometry height="30" width="130" x="790" y="2.5" as="geometry" />
         </mxCell>
         <mxCell id="4-FyYPg7NKoWXnV0fACn-1" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" style="endArrow=classic;html=1;rounded=0;" target="4-FyYPg7NKoWXnV0fACn-0" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="840" y="34" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="870" y="530" />
+              <mxPoint x="990" y="530" />
+              <mxPoint x="990" y="36" />
+            </Array>
+            <mxPoint x="870" y="576" as="sourcePoint" />
             <mxPoint x="606" y="34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2062,6 +2052,15 @@
         </mxCell>
         <mxCell id="4-FyYPg7NKoWXnV0fACn-2" parent="ZgfTGAgarcaDlM8atJc5-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" value="CAG" vertex="1">
           <mxGeometry height="40" width="40" x="600" y="720.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-DICcc6SC2Epk-vPzVp2-0" edge="1" parent="ZgfTGAgarcaDlM8atJc5-1" source="ZgfTGAgarcaDlM8atJc5-135" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="ZgfTGAgarcaDlM8atJc5-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="740" />
+            </Array>
+            <mxPoint x="520" y="738" as="sourcePoint" />
+            <mxPoint x="410" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
