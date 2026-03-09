@@ -3923,12 +3923,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BoB API - Async" id="7sGnrwfdsoHeK3Z6bja6">
-    <mxGraphModel dx="2507" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2507" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="mAbImqGf4IZiupO2UsBs-0" />
         <mxCell id="mAbImqGf4IZiupO2UsBs-1" parent="mAbImqGf4IZiupO2UsBs-0" />
         <mxCell id="mAbImqGf4IZiupO2UsBs-2" parent="mAbImqGf4IZiupO2UsBs-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;shadow=1;" value="" vertex="1">
-          <mxGeometry height="378" width="733" x="17" y="2" as="geometry" />
+          <mxGeometry height="318" width="683" x="17" y="2" as="geometry" />
         </mxCell>
         <mxCell id="mAbImqGf4IZiupO2UsBs-3" parent="mAbImqGf4IZiupO2UsBs-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" value="S3" vertex="1">
           <mxGeometry height="40" width="40" x="240" y="40" as="geometry" />
@@ -3951,7 +3951,7 @@
           <mxGeometry height="30" width="60" x="-50" y="90" as="geometry" />
         </mxCell>
         <mxCell id="mAbImqGf4IZiupO2UsBs-65" parent="mAbImqGf4IZiupO2UsBs-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Download files, if any" vertex="1">
-          <mxGeometry height="30" width="120" x="150" y="310" as="geometry" />
+          <mxGeometry height="30" width="120" x="139.33" y="250" as="geometry" />
         </mxCell>
         <mxCell id="mAbImqGf4IZiupO2UsBs-66" parent="mAbImqGf4IZiupO2UsBs-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Save files" vertex="1">
           <mxGeometry height="30" width="71" x="307" y="82" as="geometry" />
@@ -4025,8 +4025,8 @@
         <mxCell id="_l9NAS5WwHDpnkFk5Zbl-9" edge="1" parent="mAbImqGf4IZiupO2UsBs-1" source="_l9NAS5WwHDpnkFk5Zbl-0" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mAbImqGf4IZiupO2UsBs-39" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="310" />
-              <mxPoint x="-20" y="310" />
+              <mxPoint x="330" y="240" />
+              <mxPoint x="-20" y="240" />
             </Array>
             <mxPoint x="260" y="290" as="sourcePoint" />
             <mxPoint x="310" y="240" as="targetPoint" />
@@ -4072,12 +4072,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BoB API - Sync" id="ASYdfKwIiuylsaqvl7LN">
-    <mxGraphModel dx="2507" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2507" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="n9nOTEehxN-QSZE6k2pI-0" />
         <mxCell id="n9nOTEehxN-QSZE6k2pI-1" parent="n9nOTEehxN-QSZE6k2pI-0" />
         <mxCell id="n9nOTEehxN-QSZE6k2pI-2" parent="n9nOTEehxN-QSZE6k2pI-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;shadow=1;" value="" vertex="1">
-          <mxGeometry height="308" width="343" x="17" y="2" as="geometry" />
+          <mxGeometry height="238" width="273" x="17" y="2" as="geometry" />
         </mxCell>
         <mxCell id="n9nOTEehxN-QSZE6k2pI-6" edge="1" parent="n9nOTEehxN-QSZE6k2pI-1" source="n9nOTEehxN-QSZE6k2pI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="n9nOTEehxN-QSZE6k2pI-18" value="">
           <mxGeometry relative="1" as="geometry">
@@ -4130,10 +4130,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9M6eHnNjFOd2aw1MqXZa-0" parent="n9nOTEehxN-QSZE6k2pI-1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/management/provider_cloud_portal_service.svg;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="440" y="120" as="geometry" />
+          <mxGeometry height="40" width="40" x="359" y="120" as="geometry" />
         </mxCell>
         <mxCell id="BOUO1OF15fr7-8W6UUci-0" parent="n9nOTEehxN-QSZE6k2pI-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="External Agency" vertex="1">
-          <mxGeometry height="30" width="60" x="480" y="127.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="410" y="125" as="geometry" />
         </mxCell>
         <mxCell id="wrmS_nbbhw3mMWyZsApT-0" parent="n9nOTEehxN-QSZE6k2pI-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" value="&lt;span style=&quot;background-color: light-dark(rgb(230, 246, 247), rgb(237, 237, 237));&quot;&gt;ALB&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="92.33000000000001" y="119.5" as="geometry" />
