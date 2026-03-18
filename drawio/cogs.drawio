@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1" pages="21">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3" pages="21">
   <diagram id="ZKs1Kh8dbeciswKwEHHr" name="COGS">
     <mxGraphModel dx="1657" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3614,10 +3614,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w8owBIbOd40LA9LUekQi-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="600" width="440" x="40" y="40" as="geometry" />
+          <mxGeometry height="710" width="440" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="540" width="380" x="70" y="70" as="geometry" />
+          <mxGeometry height="660" width="380" x="70" y="70" as="geometry" />
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BoB Parent Application -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CST Parent Application Form&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="310" x="100" y="110" as="geometry" />
@@ -3626,10 +3626,7 @@
           <mxGeometry height="110" width="310" x="100" y="240" as="geometry" />
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="310" x="100" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="310" x="100" y="520" as="geometry" />
+          <mxGeometry height="90" width="310" x="100" y="418" as="geometry" />
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BoB Life Cycle" vertex="1">
           <mxGeometry height="30" width="90" x="40" y="40" as="geometry" />
@@ -3637,32 +3634,26 @@
         <mxCell id="w8owBIbOd40LA9LUekQi-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BoB Application (Display Name: CST)" vertex="1">
           <mxGeometry height="30" width="204" x="76" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Child Application Form" vertex="1">
+        <mxCell id="w8owBIbOd40LA9LUekQi-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Child Application 1" vertex="1">
           <mxGeometry height="30" width="290" x="110" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Child Application Form&amp;nbsp;" vertex="1">
+        <mxCell id="w8owBIbOd40LA9LUekQi-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Child Application 2" vertex="1">
           <mxGeometry height="30" width="290" x="110" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Child Application Form" vertex="1">
+        <mxCell id="w8owBIbOd40LA9LUekQi-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Child Application 3" vertex="1">
           <mxGeometry height="30" width="290" x="110" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BoB Child Application (Display Name: CST Application)" vertex="1">
-          <mxGeometry height="30" width="300" x="90" y="213" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="BoB Child Application&lt;div&gt;Display Name: CST Application&lt;/div&gt;&lt;div&gt;Template: CST Child Template&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53" width="300" x="90" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BoB Child Application (Display Name: Change Request)" vertex="1">
-          <mxGeometry height="30" width="310" x="90" y="360" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="BoB Child Application&lt;div&gt;Display Name: Change Request&lt;/div&gt;&lt;div&gt;Template: CST Change Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="90" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Change Request Form" vertex="1">
-          <mxGeometry height="30" width="310" x="100" y="390" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Change Request 1" vertex="1">
+          <mxGeometry height="30" width="310" x="100" y="418" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST LOA Renewal Form" vertex="1">
-          <mxGeometry height="30" width="310" x="100" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BoB Upload Component (Display Name: Files)" vertex="1">
-          <mxGeometry height="30" width="270" x="90" y="490" as="geometry" />
-        </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Files from Org and SoE" vertex="1">
-          <mxGeometry height="30" width="310" x="100" y="520" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST Change Request 2" vertex="1">
+          <mxGeometry height="30" width="310" x="100" y="448" as="geometry" />
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Org find the entry on BoB" vertex="1">
           <mxGeometry height="30" width="150" x="540" y="70" as="geometry" />
@@ -3670,17 +3661,14 @@
         <mxCell id="w8owBIbOd40LA9LUekQi-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="Default form template associated with the BoB application" vertex="1">
           <mxGeometry height="40" width="220" x="540" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-21" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;CST Child Apps, Change Requests, and LOA Renewals are all treated as BoB child applications.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Not sure whether we can add 2 separate child application sections in BoB to distinguish these items.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="260" x="540" y="200" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-21" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;CST Child Apps, Change Requests, and LOA Renewals are all treated as BoB child applications.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each Child Application section includes one form template.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;How many Child Application sections can we add?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="260" x="540" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="An org can submit multiple child applications using the same template under its parent application.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Can this section be enabled only when the Grant Call window is open.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="260" x="540" y="330" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="Within a Child Application section, the org can submit multiple child applications using the same template.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Can a Child Application section be enabled only when the Grant Call window is open?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="540" y="418" as="geometry" />
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="The Child Application section will include multiple form templates, each serving a different purpose. Is there a limit to how many templates this section can have?" vertex="1">
-          <mxGeometry height="70" width="260" x="540" y="450" as="geometry" />
-        </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="The Upload Component section is associated with each form, so each parent and child has its own Files section." vertex="1">
-          <mxGeometry height="70" width="260" x="540" y="560" as="geometry" />
+        <mxCell id="w8owBIbOd40LA9LUekQi-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="LOA Renewal flow:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;COGS creates a LOA submission with&amp;nbsp;&lt;/div&gt;&lt;div&gt;- LOA letter attachment&lt;/div&gt;&lt;div&gt;- pre-filled start/end dates,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- status set to Draft.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Org login and submits the LOA form.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="260" x="540" y="598" as="geometry" />
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-26" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" target="w8owBIbOd40LA9LUekQi-19" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -3702,27 +3690,17 @@
             <mxPoint x="530" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-28" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+        <mxCell id="w8owBIbOd40LA9LUekQi-29" edge="1" parent="1" source="w8owBIbOd40LA9LUekQi-14" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="230" />
-              <mxPoint x="500" y="230" />
-            </Array>
-            <mxPoint x="390" y="230" as="sourcePoint" />
-            <mxPoint x="530" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-29" edge="1" parent="1" source="w8owBIbOd40LA9LUekQi-13" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="370" />
-              <mxPoint x="500" y="310" />
+              <mxPoint x="450" y="410" />
+              <mxPoint x="480" y="370" />
             </Array>
             <mxPoint x="400" y="370" as="sourcePoint" />
-            <mxPoint x="530" y="260" as="targetPoint" />
+            <mxPoint x="530" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-30" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="w8owBIbOd40LA9LUekQi-22" value="">
+        <mxCell id="w8owBIbOd40LA9LUekQi-30" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.373;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" target="w8owBIbOd40LA9LUekQi-21" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="300" />
@@ -3731,24 +3709,36 @@
             <mxPoint x="450" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8owBIbOd40LA9LUekQi-31" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" target="w8owBIbOd40LA9LUekQi-23" value="">
+        <mxCell id="w8owBIbOd40LA9LUekQi-31" edge="1" parent="1" source="MRpReMhfuhiYx5fxByS7-3" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="440" />
+              <mxPoint x="490" y="530" />
             </Array>
             <mxPoint x="410" y="440" as="sourcePoint" />
-            <mxPoint x="460" y="390" as="targetPoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8owBIbOd40LA9LUekQi-32" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="560" />
-              <mxPoint x="490" y="550" />
+              <mxPoint x="460" y="638" />
+              <mxPoint x="490" y="628" />
             </Array>
-            <mxPoint x="410" y="560" as="sourcePoint" />
-            <mxPoint x="530" y="570" as="targetPoint" />
+            <mxPoint x="410" y="638" as="sourcePoint" />
+            <mxPoint x="530" y="648" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MRpReMhfuhiYx5fxByS7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="310" x="100" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="MRpReMhfuhiYx5fxByS7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="BoB Child Application&lt;div&gt;Display Name: LOA Renewal&lt;/div&gt;&lt;div&gt;Template: CST LOA Renewal Template&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="90" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="MRpReMhfuhiYx5fxByS7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST LOA Renewal Request 1" vertex="1">
+          <mxGeometry height="30" width="310" x="100" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="MRpReMhfuhiYx5fxByS7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CST LOA Renewal Request 2" vertex="1">
+          <mxGeometry height="30" width="310" x="100" y="618" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
