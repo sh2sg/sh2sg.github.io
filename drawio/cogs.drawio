@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" pages="21">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="29.6.4" pages="21">
   <diagram id="ZKs1Kh8dbeciswKwEHHr" name="COGS">
     <mxGraphModel dx="1657" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9955,7 +9955,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PuBGriDKwTWFF8wTkD9z" name="SoR &lt;-&gt; SoE API">
-    <mxGraphModel dx="1039" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9977,19 +9977,19 @@
         <mxCell id="zIMzaljTy5CgUml3g5gW-6" parent="zIMzaljTy5CgUml3g5gW-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="30" width="10" x="50" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Claim Request">
+        <mxCell id="zIMzaljTy5CgUml3g5gW-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1.&lt;/font&gt;&lt;/b&gt; &lt;/font&gt;Claim Request">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="909.5" y="420" as="sourcePoint" />
             <mxPoint x="609.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-8" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" value="Ack with request_id">
+        <mxCell id="zIMzaljTy5CgUml3g5gW-8" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" value="Ack">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="609.5" y="451.20000000000005" as="sourcePoint" />
             <mxPoint x="910" y="451.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="zIMzaljTy5CgUml3g5gW-4" value="Claim Item with Parent App ID, Child App ID">
+        <mxCell id="zIMzaljTy5CgUml3g5gW-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="zIMzaljTy5CgUml3g5gW-4" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2.&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;Claim Item with Parent App ID, Child App ID">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="610" y="540" as="sourcePoint" />
             <mxPoint x="690" y="540" as="targetPoint" />
@@ -10001,19 +10001,19 @@
             <mxPoint x="609.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Claim Summary with all Claim Item fields, Files">
+        <mxCell id="zIMzaljTy5CgUml3g5gW-11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;3.&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;Claim Summary with all Claim Item fields, Files">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="910" y="660" as="sourcePoint" />
             <mxPoint x="610" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" value="Ack with request_id">
+        <mxCell id="zIMzaljTy5CgUml3g5gW-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" value="Ack">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="691" as="sourcePoint" />
             <mxPoint x="910.5" y="691" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-13" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Disbursement Status">
+        <mxCell id="zIMzaljTy5CgUml3g5gW-13" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;4.&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;Disbursement Status">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="610" y="780" as="sourcePoint" />
             <mxPoint x="910" y="780" as="targetPoint" />
@@ -10025,58 +10025,73 @@
             <mxPoint x="610" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FHIR Parameters only, no need resource" vertex="1">
-          <mxGeometry height="30" width="130" x="390" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FHIR Parameters only, no need resource" vertex="1">
-          <mxGeometry height="30" width="130" x="390" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If SoE needs only App ID, then&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FHIR Parameters only, no need resource&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;If SoE needs full details of Parent / Child App, then FHIR resources are required&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="970" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FHIR Parameters only, no need resource" vertex="1">
-          <mxGeometry height="30" width="130" x="990" y="770" as="geometry" />
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-19" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="450" />
-              <mxPoint x="510" y="450" />
-            </Array>
-            <mxPoint x="460" y="430" as="sourcePoint" />
-            <mxPoint x="600" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-20" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="700" />
-            </Array>
-            <mxPoint x="460" y="670" as="sourcePoint" />
-            <mxPoint x="600" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-21" edge="1" parent="1" source="zIMzaljTy5CgUml3g5gW-17" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="zIMzaljTy5CgUml3g5gW-5" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="940" y="510" />
-              <mxPoint x="940" y="530" />
-            </Array>
-            <mxPoint x="950" y="690" as="sourcePoint" />
-            <mxPoint x="1000" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIMzaljTy5CgUml3g5gW-22" edge="1" parent="1" source="zIMzaljTy5CgUml3g5gW-18" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="zIMzaljTy5CgUml3g5gW-6" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="950" y="800" />
-            </Array>
-            <mxPoint x="950" y="760" as="sourcePoint" />
-            <mxPoint x="1000" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zIMzaljTy5CgUml3g5gW-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;CST Manual Claim from SoE&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="400" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;Parses the request,&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Starts Step Function, Validates, Evaluates, Creates Claim Item&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="466" as="geometry" />
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="Manual review, update, group Items to Summary, and approve/reject" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="583" as="geometry" />
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Saves Summary to RDS, Disbursement based on Summary" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="706" as="geometry" />
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-6" edge="1" parent="1" source="zIMzaljTy5CgUml3g5gW-2" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="taVKJkDzoDPt415GlPgV-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="440" />
+            </Array>
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-8" edge="1" parent="1" source="taVKJkDzoDPt415GlPgV-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="550" />
+            </Array>
+            <mxPoint x="500" y="620" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-9" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.63;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="taVKJkDzoDPt415GlPgV-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="550" />
+              <mxPoint x="1000" y="560" />
+            </Array>
+            <mxPoint x="920" y="550" as="sourcePoint" />
+            <mxPoint x="970" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-10" edge="1" parent="1" source="taVKJkDzoDPt415GlPgV-4" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.505;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.591;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" target="zIMzaljTy5CgUml3g5gW-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="670" />
+              <mxPoint x="980" y="680" />
+            </Array>
+            <mxPoint x="980" y="750" as="sourcePoint" />
+            <mxPoint x="1030" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-11" edge="1" parent="1" source="zIMzaljTy5CgUml3g5gW-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0.428;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="taVKJkDzoDPt415GlPgV-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="680" />
+            </Array>
+            <mxPoint x="420" y="650" as="sourcePoint" />
+            <mxPoint x="470" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taVKJkDzoDPt415GlPgV-12" edge="1" parent="1" source="taVKJkDzoDPt415GlPgV-5" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zIMzaljTy5CgUml3g5gW-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="790" />
+            </Array>
+            <mxPoint x="440" y="860" as="sourcePoint" />
+            <mxPoint x="490" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
