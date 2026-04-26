@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2026.02.12-1
+! Version: 2026.04.26-1
 
 @@||gov.sg$document
 @@||vqbn.com$document
@@ -223,5 +223,5 @@ zimuku.org##footer
 
 1lou.pro##div[id="advert"]
 
-vava8.com##aside[class="right-sidebar"],div[class="ad-container"],div[class="feed-ad-slot"],div[class="post-item vava8-ad-item"]
+vava8.com##aside[class="right-sidebar"],div[class="ad-container"],div[class="feed-ad-slot"],div[class="post-item vava8-ad-item"],div[id="contentQuickToolbar"]
 
