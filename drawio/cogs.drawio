@@ -953,14 +953,20 @@
             <mxPoint x="750" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2mzXMLCAO2xwmNhlwkg-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VPC Link" vertex="1">
-          <mxGeometry height="30" width="60" x="478.5" y="580" as="geometry" />
+        <mxCell id="q2mzXMLCAO2xwmNhlwkg-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Custom domain&lt;/div&gt;via VPC Link" vertex="1">
+          <mxGeometry height="30" width="91.5" x="468.5" y="580" as="geometry" />
         </mxCell>
         <mxCell id="q2mzXMLCAO2xwmNhlwkg-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VPCE" vertex="1">
           <mxGeometry height="30" width="60" x="270" y="472" as="geometry" />
         </mxCell>
         <mxCell id="q2mzXMLCAO2xwmNhlwkg-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Custom domain via Transit GW" vertex="1">
           <mxGeometry height="30" width="100" x="350" y="766.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q2mzXMLCAO2xwmNhlwkg-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Custom&amp;nbsp;&lt;/div&gt;&lt;div&gt;domain&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="91.5" x="478.5" y="466.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q2mzXMLCAO2xwmNhlwkg-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VPCE" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="192" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
