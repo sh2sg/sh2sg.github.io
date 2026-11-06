@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2026.11.06-6
+! Version: 2026.11.06-7
 
 @@||gov.sg$document
 @@||vqbn.com$document
