@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2026.11.06-5
+! Version: 2026.11.06-6
 
 @@||gov.sg$document
 @@||vqbn.com$document
@@ -227,4 +227,7 @@ vava8.com##aside[class="right-sidebar"],div[class="ad-container"],div[class="fee
 
 /usr/plugins/Common/*.js
 /usr/themes/Mirages/js/*.js
+/usr/plugins/Im/assets/js/*.js
+/usr/plugins/ai/common/*.js
+##div.float_buttom
 
