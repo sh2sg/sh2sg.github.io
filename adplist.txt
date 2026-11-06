@@ -1,5 +1,5 @@
 ! Title: sh2sg custom filters
-! Version: 2026.11.06-4
+! Version: 2026.11.06-5
 
 @@||gov.sg$document
 @@||vqbn.com$document
@@ -226,5 +226,5 @@ zimuku.org##footer
 vava8.com##aside[class="right-sidebar"],div[class="ad-container"],div[class="feed-ad-slot"],div[class="post-item vava8-ad-item"],div[id="contentQuickToolbar"]
 
 /usr/plugins/Common/*.js
-/usr/themes/Mirages/*.js
+/usr/themes/Mirages/js/*.js
 
